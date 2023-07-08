@@ -2,4 +2,4 @@
 
 $str = 'hello wo3ld 111177777';
 $str = 'hello wo3ld 111177777';
-$str = 'NEW1';
+$str = 'NEW2';
