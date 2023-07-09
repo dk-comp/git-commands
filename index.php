@@ -10,3 +10,4 @@ $str = 'DEC 3';
 $str = 'DEC 4';
 $str = 'DEC 5';
 $str = 'DEC 6';
+$str = 'DEC 7';
